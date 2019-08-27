@@ -1,0 +1,22 @@
+
+{
+    "plugins":[ 
+      "github-buttons",
+      "katex"
+    ],
+    "pluginsConfig": {
+      "github-buttons": {
+        "buttons": [{
+          "user": "MinchaoZhu",
+          "repo": "JavaScript-Plugin-Architecture",
+          "type": "star",
+          "size": "large"
+        }, {
+          "user": "MinchaoZhu",
+          "type": "follow",
+          "width": "230",
+          "count": false
+        }]
+      }
+    }
+  }
